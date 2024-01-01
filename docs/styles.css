@@ -1,0 +1,30 @@
+
+
+
+
+
+html,body { height:100%; }
+
+
+.column {
+    float: left;
+  }
+  
+  .left, .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
+
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
+
+  
