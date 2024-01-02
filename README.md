@@ -13,6 +13,7 @@ This is my first solo, non-school related side project; the goal of this is to m
 * Fix the download button on the about me page
 * Fix the third column in the skills/qualifications page
 * Organize the Music Classification Repository and add descriptions to its README.md
+* Organize the Music Classification notebook 
 * Make QR codes for github repository links, mostly for paper resume (semi-optional) 
 * Add padding between the drop down text and the new dropdown in the projects page (optional)
 * Change the name into Resume Website (optional)
