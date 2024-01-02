@@ -33,6 +33,10 @@ h3{padding-left: 10px;}
     clear: both;
   }
   
+.middle_text{
+  padding-left: 10px;
+}
+
   .collapsible {
     background-color: #777;
     color: white;
