@@ -11,3 +11,4 @@ This is my first solo, non-school related side project; the goal of this is to m
 
 ## To-Do
 * Fix the download button on the about me page
+* Add padding between the drop down text and the new dropdown in the projects page (optional)
