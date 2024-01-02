@@ -10,7 +10,7 @@ This is my first solo, non-school related side project; the goal of this is to m
 
 
 ## To-Do
-* Fix the download button on the about me page
+* Fix the download button on the about me page (resolved, but keep a lookout on it)
 * Fix the third column in the skills/qualifications page
 * Organize the Music Classification Repository and add descriptions to its README.md
 * Organize the Music Classification notebook 
