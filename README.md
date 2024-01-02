@@ -7,3 +7,7 @@ This is my first solo, non-school related side project; the goal of this is to m
 ## Optional Requirements:
 * Have a sort feature on the project page
 * Have each project as a separate drop down
+
+
+## To-Do
+* Fix the download button on the about me page
