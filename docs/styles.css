@@ -10,8 +10,13 @@ html,body { height:100%; }
     float: left;
   }
   
-  .left, .right {
+  .left{
     width: 25%;
+    padding-right: 10px;
+  }
+  .right {
+    width: 20%;
+    padding-right: 10px;
   }
   
   .middle {
@@ -48,5 +53,43 @@ html,body { height:100%; }
     transition: max-height 0.2s ease-out;
     background-color: #f1f1f1;
   }
+
+
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #030e18;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #064579;
+  }
+  
+.sidenav button {
+  background-color:rgb(124, 223, 223);
+  width: 100%;
+}
+
+
+  .main {
+    font-size: 100px; /* Increased text to enable scrolling */
+    padding: 0px 100px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 20px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+
+
+
+
+
+
+
+
 
   
