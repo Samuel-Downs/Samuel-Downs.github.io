@@ -13,3 +13,4 @@ This is my first solo, non-school related side project; the goal of this is to m
 * Fix the download button on the about me page
 * Fix the third column in the skills/qualifications page
 * Add padding between the drop down text and the new dropdown in the projects page (optional)
+* Change the name into Resume Website (optional)
