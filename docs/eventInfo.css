@@ -1,0 +1,23 @@
+
+.hoverbox {
+	position: relative;
+	.info{
+		display: none;
+	}
+	&:hover {
+		.info {
+			display: block;
+		}
+	}
+}
+
+.info {
+	display: block;
+	position: relative;
+	padding-top: 10px;
+	z-index: 450;
+	background: white;
+	min-height: 140px;
+	width: 270px;
+    border: 3px solid gray;
+	}
