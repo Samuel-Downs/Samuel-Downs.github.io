@@ -9,6 +9,8 @@ h2 {text-align: center;}
 
 h3{padding-left: 10px;}
 
+
+
 .column {
     float: left;
   }
@@ -35,6 +37,11 @@ h3{padding-left: 10px;}
   
 .middle_text{
   padding-left: 10px;
+  padding-right: 10px;
+}
+
+.right_text{
+  padding-left: 20px;
 }
 
   .collapsible {
