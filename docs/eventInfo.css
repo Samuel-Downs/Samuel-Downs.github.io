@@ -8,11 +8,13 @@
 		.info {
 			display: block;
 	    position: absolute;
-      bottom: 20px;
+      bottom: 18px;
     	padding-top: 5px;
     	z-index: 450;
     	background: white;
     	min-height: 140px;
+      max-height: 200px;
+      overflow: scroll;
     	width: 270px;
       border: 3px solid gray;
 		}
