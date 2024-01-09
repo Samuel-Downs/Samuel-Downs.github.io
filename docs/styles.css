@@ -1,13 +1,7 @@
 
 
-
-
-
-html,body { height:100%; }
-
 h2 {text-align: center;}
 
-h3{padding-left: 10px;}
 
 
 
@@ -38,6 +32,10 @@ h3{padding-left: 10px;}
 .middle_text{
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.middle_last{
+  padding-bottom: 10px;
 }
 
 .right_text{
@@ -87,6 +85,9 @@ h3{padding-left: 10px;}
   width: 100%;
 }
 
+.downloadButton{
+  padding: 10px;
+}
 
   .main {
     font-size: 100px; /* Increased text to enable scrolling */
