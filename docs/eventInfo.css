@@ -21,6 +21,13 @@
 	}
 }
 
+.eveList{
+  padding-bottom: 3px;
+  max-width: 300px;
+}
+
+
+
 /** Messing with grid format
 .info {
 	
