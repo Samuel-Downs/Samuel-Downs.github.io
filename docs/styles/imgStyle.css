@@ -1,11 +1,28 @@
 
 
-.grad_photo{
-    width: 400px;
-    max-width: 100%;
-    height: auto;
+.photo{
     align-self: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.grad{
+    width: 400px;
+    max-width: 100%;
+}
+
+.USITCC{
+    width: 300px;
+    max-width: 100%;
+}
+
+.STaRS{
+    width: 300px;
+    max-width: 100%;
+}
+
+.CCSCSE{
+    width: 300px;
+    max-width: 100%;
 }
