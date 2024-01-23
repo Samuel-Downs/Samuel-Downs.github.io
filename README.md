@@ -18,3 +18,10 @@ This is my first solo, non-school related side project; the goal of this is to m
 * Make QR codes for github repository links, mostly for paper resume (semi-optional) 
 * Add padding between the drop down text and the new dropdown in the projects page (optional)
 * Change the name into Resume Website (optional)
+
+## VSCode installs:
+* Python (allow the installer to add python.exe to PATH; youtube link: https://www.youtube.com/watch?v=KkVLNvFh0-M)
+* Python extension on vscode (requires a restart afterwards)
+* pip install panel jupyter_bokeh altair vega_datasets ipykernel 
+* if previous pip install did not work (in the terminal), enter: python -m ensurepip --default-pip
+* also: pip install pyodide
