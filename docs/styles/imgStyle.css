@@ -26,3 +26,8 @@
     width: 300px;
     max-width: 100%;
 }
+
+.viewMore{
+    color: blue;
+    padding: none;
+}
